@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "WeatherReportTemperatureIntent"
+    },
+    {
+      "intent": "WeatherReportHumidityIntent"
+    },
+    {
+      "intent": "WeatherReportFullIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

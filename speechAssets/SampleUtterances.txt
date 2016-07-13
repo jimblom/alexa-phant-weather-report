@@ -1,0 +1,7 @@
+WeatherReportTemperatureIntent the temperature
+WeatherReportTemperatureIntent how hot it is
+
+WeatherReportHumidityIntent the humidity
+
+WeatherReportFullIntent for a report
+WeatherReportFullIntent report
