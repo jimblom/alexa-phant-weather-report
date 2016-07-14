@@ -7,7 +7,7 @@ Alexa skill that teaches her how to read from a Phant stream (e.g. [data.sparkfu
 * _src_ - Javascript source file(s) for the app. These files are hosted and run by Amazon's Lambda service.
 * _speechAssets_ - Intent Schema and Sample Utterances for the Skill. The contents of these files are pasted into the Skill's configuration console.
 * _altSrc_ - Alternate, single-file source code. Can be pasted into Lambda's inline editor.
-* _Firmware_ - Example weather station firmware for a [Photon](), [Photon Weather Shield](), and [Weather Meter](). Check out [this tutorial]() for more information.
+* _Firmware_ - Example weather station firmware for a [Photon](https://www.sparkfun.com/products/13774), [Photon Weather Shield](https://www.sparkfun.com/products/13630), and [Weather Meter](https://www.sparkfun.com/products/8942). Check out [this tutorial](https://learn.sparkfun.com/tutorials/photon-weather-shield-hookup-guide) for more information.
 
 ## Setup
 To run this example skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
